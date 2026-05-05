@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8871"
-	"mapversion" "52"
+	"mapversion" "53"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "52"
+	"mapversion" "53"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -802,6 +802,21 @@ entity
 	"angles" "-0 90 0"
 	"file" "art_therapy/instances/art_therapy/wall_segment_22.vmf"
 	"origin" "-256 -1984 320"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "2627"
+	"classname" "func_instance"
+	"angles" "-0 0 0"
+	"file" "art_therapy/instances/art_therapy/misc_structure_3.vmf"
+	"origin" "3648 -832 0"
 	editor
 	{
 		"color" "220 30 220"

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8871"
-	"mapversion" "1"
+	"mapversion" "2"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,39 +89,13 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "2"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxblobcount" "250"
 	"maxpropscreenwidth" "-1"
 	"skyname" "sky_black_nofog"
-}
-entity
-{
-	"id" "2"
-	"classname" "env_projectedtexture"
-	"angles" "35 231.456 0"
-	"brightnessscale" "12"
-	"colortransitiontime" "0.5"
-	"enableshadows" "1"
-	"farz" "1500"
-	"lightcolor" "255 255 255 200"
-	"lightfov" "60"
-	"lightworld" "1"
-	"nearz" "90"
-	"shadowquality" "1"
-	"spawnflags" "1"
-	"targetname" "light_spot_1"
-	"texturename" "effects/flashlight002"
-	"origin" "-39.61 -1143.01 45.03"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 500]"
-	}
 }
 entity
 {

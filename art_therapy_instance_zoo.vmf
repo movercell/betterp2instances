@@ -132,7 +132,7 @@ entity
 	"id" "21"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/platform_512_384.vmf"
+	"file" "instances/art_therapy/platform_512_384.vmf"
 	"origin" "4416 -256 0"
 	editor
 	{
@@ -147,7 +147,7 @@ entity
 	"id" "27"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/misc_structure_1.vmf"
+	"file" "instances/art_therapy/misc_structure_1.vmf"
 	"origin" "3648 704 0"
 	editor
 	{
@@ -162,7 +162,7 @@ entity
 	"id" "33"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/moving_platform_256x256.vmf"
+	"file" "instances/art_therapy/moving_platform_256x256.vmf"
 	"origin" "4352 -832 0"
 	editor
 	{
@@ -177,7 +177,7 @@ entity
 	"id" "39"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/misc_structure_2.vmf"
+	"file" "instances/art_therapy/misc_structure_2.vmf"
 	"origin" "3648 -192 0"
 	editor
 	{
@@ -209,7 +209,7 @@ entity
 	"id" "187"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/reservoir_roommover_a.vmf"
+	"file" "instances/art_therapy/reservoir_roommover_a.vmf"
 	"origin" "4224 -1216 0"
 	editor
 	{
@@ -241,7 +241,7 @@ entity
 	"id" "316"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/ceiling_gantry.vmf"
+	"file" "instances/art_therapy/ceiling_gantry.vmf"
 	"origin" "256 3072 1280"
 	editor
 	{
@@ -256,7 +256,7 @@ entity
 	"id" "333"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "art_therapy/instances/art_therapy/light_array.vmf"
+	"file" "instances/art_therapy/light_array.vmf"
 	"origin" "3648 1792 64"
 	editor
 	{
@@ -271,7 +271,7 @@ entity
 	"id" "344"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/ambient_light.vmf"
+	"file" "instances/art_therapy/ambient_light.vmf"
 	"origin" "4352 1792 128"
 	editor
 	{
@@ -286,7 +286,7 @@ entity
 	"id" "1523"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/beam_2058.vmf"
+	"file" "instances/art_therapy/beam_2058.vmf"
 	"origin" "3648 1664 320"
 	editor
 	{
@@ -301,7 +301,7 @@ entity
 	"id" "1530"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/reservoir_roommover_b.vmf"
+	"file" "instances/art_therapy/reservoir_roommover_b.vmf"
 	"origin" "4224 -1408 0"
 	editor
 	{
@@ -316,7 +316,7 @@ entity
 	"id" "1537"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/reservoir_roommover_c.vmf"
+	"file" "instances/art_therapy/reservoir_roommover_c.vmf"
 	"origin" "4224 -1600 0"
 	editor
 	{
@@ -331,7 +331,7 @@ entity
 	"id" "1544"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/reservoir_roommover_d.vmf"
+	"file" "instances/art_therapy/reservoir_roommover_d.vmf"
 	"origin" "4224 -1792 0"
 	editor
 	{
@@ -346,7 +346,7 @@ entity
 	"id" "1552"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/reservoir_roommover_e.vmf"
+	"file" "instances/art_therapy/reservoir_roommover_e.vmf"
 	"origin" "4224 -1984 0"
 	editor
 	{
@@ -361,7 +361,7 @@ entity
 	"id" "1562"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/beam_1536.vmf"
+	"file" "instances/art_therapy/beam_1536.vmf"
 	"origin" "3648 1920 768"
 	editor
 	{
@@ -393,7 +393,7 @@ entity
 	"id" "1721"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/floor_or_ceiling_segment_1.vmf"
+	"file" "instances/art_therapy/floor_or_ceiling_segment_1.vmf"
 	"origin" "-1984 0 576"
 	editor
 	{
@@ -408,7 +408,7 @@ entity
 	"id" "1729"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/reservoir_gantry.vmf"
+	"file" "instances/art_therapy/reservoir_gantry.vmf"
 	"origin" "256 3072 128"
 	editor
 	{
@@ -440,7 +440,7 @@ entity
 	"id" "256"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_7.vmf"
+	"file" "instances/art_therapy/wall_segment_7.vmf"
 	"origin" "2496 -1600 185"
 	editor
 	{
@@ -455,7 +455,7 @@ entity
 	"id" "264"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_8.vmf"
+	"file" "instances/art_therapy/wall_segment_8.vmf"
 	"origin" "2240 -1600 185"
 	editor
 	{
@@ -470,7 +470,7 @@ entity
 	"id" "275"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_9.vmf"
+	"file" "instances/art_therapy/wall_segment_9.vmf"
 	"origin" "1792 -1600 185"
 	editor
 	{
@@ -485,7 +485,7 @@ entity
 	"id" "284"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_10.vmf"
+	"file" "instances/art_therapy/wall_segment_10.vmf"
 	"origin" "1344 -1600 185"
 	editor
 	{
@@ -500,7 +500,7 @@ entity
 	"id" "291"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_11.vmf"
+	"file" "instances/art_therapy/wall_segment_11.vmf"
 	"origin" "640 -1600 249"
 	editor
 	{
@@ -515,7 +515,7 @@ entity
 	"id" "300"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_12.vmf"
+	"file" "instances/art_therapy/wall_segment_12.vmf"
 	"origin" "-384 -1600 249"
 	editor
 	{
@@ -530,7 +530,7 @@ entity
 	"id" "1569"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_13.vmf"
+	"file" "instances/art_therapy/wall_segment_13.vmf"
 	"origin" "-1088 -1600 256"
 	editor
 	{
@@ -545,7 +545,7 @@ entity
 	"id" "1825"
 	"classname" "func_instance"
 	"angles" "-0 -1.00179e-05 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_14.vmf"
+	"file" "instances/art_therapy/wall_segment_14.vmf"
 	"origin" "-1536 -1600 256"
 	editor
 	{
@@ -560,7 +560,7 @@ entity
 	"id" "116"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_1.vmf"
+	"file" "instances/art_therapy/wall_segment_1.vmf"
 	"origin" "1984 -1216 64"
 	editor
 	{
@@ -575,7 +575,7 @@ entity
 	"id" "126"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_2.vmf"
+	"file" "instances/art_therapy/wall_segment_2.vmf"
 	"origin" "1152 -1216 64"
 	editor
 	{
@@ -590,7 +590,7 @@ entity
 	"id" "135"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_3.vmf"
+	"file" "instances/art_therapy/wall_segment_3.vmf"
 	"origin" "640 -1216 128"
 	editor
 	{
@@ -605,7 +605,7 @@ entity
 	"id" "159"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_4.vmf"
+	"file" "instances/art_therapy/wall_segment_4.vmf"
 	"origin" "-128 -1216 384"
 	editor
 	{
@@ -620,7 +620,7 @@ entity
 	"id" "169"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_5.vmf"
+	"file" "instances/art_therapy/wall_segment_5.vmf"
 	"origin" "-832 -1216 320"
 	editor
 	{
@@ -635,7 +635,7 @@ entity
 	"id" "177"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_6.vmf"
+	"file" "instances/art_therapy/wall_segment_6.vmf"
 	"origin" "-1664 -1216 512"
 	editor
 	{
@@ -650,7 +650,7 @@ entity
 	"id" "1926"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/floor_or_ceiling_segment_2.vmf"
+	"file" "instances/art_therapy/floor_or_ceiling_segment_2.vmf"
 	"origin" "-1920 704 576"
 	editor
 	{
@@ -665,7 +665,7 @@ entity
 	"id" "1950"
 	"classname" "func_instance"
 	"angles" "-0 -1.00179e-05 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_14.vmf"
+	"file" "instances/art_therapy/wall_segment_14.vmf"
 	"origin" "-1600 -1600 256"
 	editor
 	{
@@ -680,7 +680,7 @@ entity
 	"id" "1953"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_15.vmf"
+	"file" "instances/art_therapy/wall_segment_15.vmf"
 	"origin" "-1920 -1600 320"
 	editor
 	{
@@ -695,7 +695,7 @@ entity
 	"id" "1985"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_16.vmf"
+	"file" "instances/art_therapy/wall_segment_16.vmf"
 	"origin" "2432 -1984 320"
 	editor
 	{
@@ -710,7 +710,7 @@ entity
 	"id" "2097"
 	"classname" "func_instance"
 	"angles" "-0 -180 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_17.vmf"
+	"file" "instances/art_therapy/wall_segment_17.vmf"
 	"origin" "1984 -1984 320"
 	editor
 	{
@@ -725,7 +725,7 @@ entity
 	"id" "2212"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_18.vmf"
+	"file" "instances/art_therapy/wall_segment_18.vmf"
 	"origin" "1536 -1984 320"
 	editor
 	{
@@ -740,7 +740,7 @@ entity
 	"id" "2225"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_19.vmf"
+	"file" "instances/art_therapy/wall_segment_19.vmf"
 	"origin" "1216 -1984 320"
 	editor
 	{
@@ -755,7 +755,7 @@ entity
 	"id" "2232"
 	"classname" "func_instance"
 	"angles" "-0 -90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_20.vmf"
+	"file" "instances/art_therapy/wall_segment_20.vmf"
 	"origin" "896 -1984 320"
 	editor
 	{
@@ -770,7 +770,7 @@ entity
 	"id" "2356"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/floor_or_ceiling_segment_3.vmf"
+	"file" "instances/art_therapy/floor_or_ceiling_segment_3.vmf"
 	"origin" "-2112 1216 576"
 	editor
 	{
@@ -785,7 +785,7 @@ entity
 	"id" "2483"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_21.vmf"
+	"file" "instances/art_therapy/wall_segment_21.vmf"
 	"origin" "448 -1984 320"
 	editor
 	{
@@ -800,7 +800,7 @@ entity
 	"id" "2494"
 	"classname" "func_instance"
 	"angles" "-0 90 0"
-	"file" "art_therapy/instances/art_therapy/wall_segment_22.vmf"
+	"file" "instances/art_therapy/wall_segment_22.vmf"
 	"origin" "-256 -1984 320"
 	editor
 	{
@@ -815,7 +815,7 @@ entity
 	"id" "2627"
 	"classname" "func_instance"
 	"angles" "-0 0 0"
-	"file" "art_therapy/instances/art_therapy/misc_structure_3.vmf"
+	"file" "instances/art_therapy/misc_structure_3.vmf"
 	"origin" "3648 -832 0"
 	editor
 	{
